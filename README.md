@@ -1,9 +1,30 @@
 # WhackAMole
-COVID-19 has made us be home quarantined for more than a month, people, especially children need some sort of distraction to keep themselves sane. Whack a mole is a multi-player immersive Arcade game which you can play with your friends and family during this quarantine. The game involves quickly and repeatedly hitting the heads of mechanical moles with a mallet as they pop up from holes. The first Whac-A-Mole game began as an arcade game with an air cylinder system to power the moles popping out of the "dirt". We decided to take this game to the web!
+
+
+Inspiration
+
+So how high are these expectations? IDC predicts that the virtual and augmented reality market will dramatically expand from just over $9 billion last year to $215 billion by 2021. That incredible 118% compound annual growth rate would make VR one of the fastest-growing industries on the planet. As we find ourselves in a new decade, questions still remain about VR and the video gaming industry. Although 2017 didn’t live up to the predictions, VR gaming has learned a lot and come quite a way since it began back in 2014. As brands continue to test and experiment within the VR realm, the arms race will continue to create the best product and experience for consumers.
+
+
+
+What it does
+ Whack a mole is a multi-player immersive Arcade game which you can play with your friends and family during this quarantine. The game involves quickly and repeatedly hitting the heads of mechanical moles with a mallet as they pop up from holes. The first Whac-A-Mole game began as an arcade game with an air cylinder system to power the moles popping out of the "dirt". 
 We built this game on Unity3d and on top of Photon PUN and GoogleVR SDK. It is a multiplayer game which allows the user to play online with random people or friends and computer as well. The game currently supports ios and android.
 
-Blockchain Technology is revolutionizing the gaming industry. Most of the games that we play are controlled by centralized agencies. Blockchain creates transparency and solves this multifaceted problem by eliminating centralized gaming entities. The best part of Whack-a-Mole is players can earn micro-rewards and these can be utilized in our NFT market place to trade game objects for like skins and characters for various games. Hence your rewards will have a real-world value. The market place is built on React and we integrated Tezos SmartPy smart contracts for market place purchases.
 
-# Technologies we used
-Google VR SDK, React JS, Unity3d, Tezos, ConseilJS, SmartPy, Pytezos, photon Pun
+How I Built It
+It is built on Unity3D, on top of Photon PUN and GoogleVR SDK. It is also integrated with Google Firebase.
+
+Challenges we ran into
+This was the very First time, my team and I were working on the development of virtual reality games and networking. As we had to run the game on our phone to record the gameplay the output video on youtube is a bit blurry.
+
+Accomplishments that we're proud of
+My team and I completed the development of the game in 20hrs, from Scratch. We developed a few of our own UI elements and game assets. I feel the User-Interface of the app and the effects are pretty cool.
+
+What we learned
+VR development is real FUN!! and there are a lot of API and SDK that unity supports.
+
+What's next for WHACK A MOLE
+We want this game to be a cross-platform game and hence our next step would be to make the web version of it, plan on releasing it to production so that users can have an immersive experience of modern gaming techniques.
+
 
